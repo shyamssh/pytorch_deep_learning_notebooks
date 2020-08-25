@@ -1,6 +1,6 @@
 This repository provides notebooks for students who starts learning deep learning using [PyTorch](https://github.com/pytorch/pytorch)    
 
-#Setup
+# Setup
 
 - Install Virtualenv if you do not have already
 
@@ -22,7 +22,7 @@ This repository provides notebooks for students who starts learning deep learnin
 ## Table of Contents
 
 #### 1. Basics
-* [What is Deep learning]
+* [What is Deep learning](https://github.com/shyamssh/pytorch_deep_learning_notebooks/blob/master/notebooks/01-basics/what_is_deep_learning.ipynb)
 
 
 ## Dependencies
